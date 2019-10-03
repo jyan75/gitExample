@@ -1,2 +1,1 @@
-boss, Jyan75, Yan,Jingwen
 employee, jyan75, Yan, Jingwen
